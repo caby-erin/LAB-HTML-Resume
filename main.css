@@ -1,3 +1,27 @@
-body{
-  background-color: blueviolet;
+Body{
+  background-color:pink;
+}
+
+#FW{
+  font-family: 'Courier New', Courier, monospace;
+  color: darkolivegreen;
+ border: 10px solid black;
+}
+
+#BH{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: darkolivegreen;
+  border: 10px dotted aqua;
+  
+
+}
+
+#NSO{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: darkolivegreen;
+  border: 10px dashed purple;
+ 
+}
+h3{
+  color: blue;
 }
